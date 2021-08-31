@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479058847798",
+    "project_id": "pdoran-34b4c",
+    "storage_bucket": "pdoran-34b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479058847798:android:225cdb5769bbc38c1a1097",
+        "android_client_info": {
+          "package_name": "com.example.pdoran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479058847798-flbqb7c56to7b28b5hs7piophvtnnsff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pdoran",
+            "certificate_hash": "6a0d0188c9b76a3cfae35aded79c431a1d65cfcc"
+          }
+        },
+        {
+          "client_id": "479058847798-hg72vh4vhjviamjc9r29rkevhit8lcv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWkScnOgYBlSEVMwX-iXHPJir4qk6LKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479058847798-hg72vh4vhjviamjc9r29rkevhit8lcv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
